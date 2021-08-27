@@ -37,7 +37,7 @@
 						<td><a href="book_detail.jsp"><img alt="" src="../img/book.jpg" width="150px;"></a></td>
 					</tr>
 					<tr>
-						<td>카테고리</td>
+						<td style="padding-top: 10px;">카테고리</td>
 					</tr>
 					<tr style="text-align: right;">
 						<td>책 제목</td>

@@ -76,10 +76,10 @@
 					</tr>
 					<tr>
 						<td><img alt="" src="../img/book.jpg" width="100px;"></td>
-						<td>qweqew</td>
-						<td>qweqew</td>
-						<td>qweqeq</td>
-						<td>qweqe</td>
+						<td style="vertical-align : middle;">qweqew</td>
+						<td style="vertical-align : middle;">qweqew</td>
+						<td style="vertical-align : middle;">qweqeq</td>
+						<td style="vertical-align : middle;">qweqe</td>
 					</tr>
 				</table>
 			</div>
