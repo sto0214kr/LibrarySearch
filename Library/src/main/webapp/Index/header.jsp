@@ -56,8 +56,8 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#">로그아웃</a></li>
 				
-				<li><a href="#">로그인</a></li>
-				<li><a href="#">회원가입</a></li>
+				<li><a href="../User/Login.jsp">로그인</a></li>
+				<li><a href="../User/Signup.jsp">회원가입</a></li>
 			</ul>
 		</div>
 	</nav>
@@ -76,9 +76,9 @@
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="../BookSearch/search.jsp">도서검색</a></li>
-					<li><a href="#">도서관검색</a></li>
-					<li><a href="#">열린공간</a></li>
-					<li><a href="#">마이페이지</a></li>
+					<li><a href="../LibrarySearch/search.jsp">도서관검색</a></li>
+					<li><a href="../Board/Boardlist.jsp">열린공간</a></li>
+					<li><a href="../User/Mypage.jsp">마이페이지</a></li>
 				</ul>
 			</div>
 			
