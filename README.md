@@ -40,7 +40,7 @@ maddress varchar(100) not null
 |maddress|회원주소|
 
 ##### 예시
-|mno|mid|mpw|mname|mphone|memail|maddress|
+|no||||||
 |----|----|----|----|----|----|
 |0001||||||
 
