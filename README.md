@@ -18,7 +18,15 @@
 
 ##### 회원
 ```
-create 
+create table library.member(
+mno int primary key auto_increment not null,
+mid varchar(100) not null,
+mpw varchar(100) not null,
+mname varchar(100) not null,
+mphone varchar(100) not null,
+memail varchar(100) not null,
+maddress varchar(100) not null
+)
 ```
 
 |칼럼|설명|
