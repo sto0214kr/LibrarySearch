@@ -40,9 +40,9 @@ maddress varchar(100) not null
 |maddress|회원주소|
 
 ##### 예시
-|mno|mid|mpw|mname|mphone|memail|maddress|
+|mno|mid|mpw|mname|mphone|memail|||
 |----|----|----|----|----|----|
-|01|qwe|123|홍길동|010-1234-1234|qwe@qwe|서울.....|
+|0001||||||
 
 ##### 게시글
 ```
