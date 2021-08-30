@@ -34,7 +34,7 @@
 			<div>
 				<table>
 					<tr>
-						<td><a href="#"><img alt="" src="../img/book.jpg" width="150px;"></a></td>
+						<td><a href="book_detail.jsp"><img alt="" src="../img/book.jpg" width="150px;"></a></td>
 					</tr>
 					<tr>
 						<td>카테고리</td>

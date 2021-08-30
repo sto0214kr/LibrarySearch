@@ -77,7 +77,7 @@
 			</table>
 				
 			<div id ="btn">
-				<a href="newbook.jsp" class="btn btn-default">목록</a>
+				<a href="javascript:history.back();" class="btn btn-default">이전 페이지</a>
 				<a href="#" class="btn btn-default">관심도서담기</a>
 			</div>
 		</div>

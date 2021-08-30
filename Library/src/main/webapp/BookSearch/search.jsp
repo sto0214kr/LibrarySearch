@@ -75,7 +75,7 @@
 						<th>소장도서관</th>
 					</tr>
 					<tr>
-						<td><img alt="" src="../img/book.jpg" width="100px;"></td>
+						<td><a href="book_detail.jsp"><img alt="" src="../img/book.jpg" width="100px;"></a></td>
 						<td style="vertical-align : middle;">qweqew</td>
 						<td style="vertical-align : middle;">qweqew</td>
 						<td style="vertical-align : middle;">qweqeq</td>
