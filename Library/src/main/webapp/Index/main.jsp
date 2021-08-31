@@ -30,6 +30,19 @@
 			float: right;
 			margin-right: 20px;
 		}
+		
+		#main_booklist {
+			width: 200px;
+		}
+		
+		#main_booklist img {
+			width: 100%;
+		}
+		
+		#main_booklist ul {
+			list-style-type: none;
+			text-align: right;
+		}
 	
 	</style>
 
@@ -70,6 +83,21 @@
 		</div>
 	</div>
 	
+	<!-- 신간도서 추천 -->
+	<div class="container">
+		<div><h3>< 신 간 도 서 ></h3></div>
+		<br>
+		<div id="main_booklist">
+			<img alt="" src="../img/book.jpg">
+			<ul>
+				<li><h4>책 제목</h4></li>
+				<li>저자</li>
+				<li>출판사</li>
+			</ul>
+		</div>
+	</div>
+	
+	<!-- 공지사항 -->
 	<div class="container">
 		<div style="margin-top: 50px;">
 			<div id="main_info">공 지 사 항

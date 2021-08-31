@@ -48,7 +48,7 @@
 <body>
 
 	<div align="center" style="margin-top: 20px;">
-		<a href="../Index/main.jsp"><img alt="" src="../img/main_logo.png" style="width: 300px; height: 100px;"></a>
+		<a href="../Index/main.jsp"><img alt="" src="../img/main_logo.png" style="width: 300px;"></a>
 	</div>
 	
 	<nav>
